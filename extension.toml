@@ -1,6 +1,6 @@
 id = "softglass"
 name = "SoftGlass Themes"
-version = "0.5.0"
+version = "0.6.0"
 schema_version = 1
 authors = ["João Sereia (SoftYes TI) <joao.sereia@softyes.com.br>"]
 description = "Glass themes with color options."
